@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <h1> This is just another experiment </h1>,
+  <h1> This is new experiment number 2 </h1>,
   document.getElementById('root')
 );
 
