@@ -5,7 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
+<<<<<<< HEAD
   <h1> This is new experiment number 2 </h1>,
+=======
+  <h1> Hello Noobie </h1>,
+>>>>>>> a4577158f95ee4386db71ffbb45f552ac29d5b6d
   document.getElementById('root')
 );
 
